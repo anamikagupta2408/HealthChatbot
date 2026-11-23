@@ -1,0 +1,26 @@
+# API keys
+.env
+
+# Virtual environments
+.venv/
+.venv-1/
+.venv-2/
+venv/
+venv1/
+venv2/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS database
+vectorstore/
+
+# Chat history
+chat_history.json
+
+# Medical documents
+data/medical_documents/*.pdf
+
+# VS Code settings
+.vscode/ 
